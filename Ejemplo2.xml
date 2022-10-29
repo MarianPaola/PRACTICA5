@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Users\CETI\Documents\9°j\Servicios WEB\PRACTICA5_A180124\Ejemplo2.xsl"?>
+
+<celulares>
+<celular>
+    <nombre>Xiaomi</nombre>
+    <modelo>Redmi note 11 128 gb</modelo>
+    <precio>$ 3,630.00</precio>
+</celular>
+<celular>
+    <nombre>Apple</nombre>
+    <modelo>Iphone 11 64 gb</modelo>
+    <precio>$ 8,199.00</precio>
+</celular>
+<celular>
+    <nombre>Motorola</nombre>
+    <modelo>MotoG60 128 gb</modelo>
+    <precio>$ 4,028.00</precio>
+</celular>
+<celular>
+    <nombre>Samsung</nombre>
+    <modelo>Galaxy A134 128 gb</modelo>
+    <precio>$ 3,849.00</precio>
+</celular>
+<celular>
+    <nombre>Apple</nombre>
+    <modelo>Iphone XR 128 gb</modelo>
+    <precio>$ 6,099.00</precio>
+</celular>
+<celular>
+    <nombre>Xiaomi</nombre>
+    <modelo>Redmi Note 10 PRO 128 gb</modelo>
+    <precio>$ 4,654.00</precio>
+</celular>
+<celular>
+    <nombre>Apple</nombre>
+    <modelo>Iphone 8 64 gb</modelo>
+    <precio>$ 3,398.00</precio>
+</celular>
+<celular>
+    <nombre>Samsung</nombre>
+    <modelo>Galaxy A13 128 gb</modelo>
+    <precio>$ 3,914.25</precio>
+</celular>
+<celular>
+    <nombre>Xiaomi</nombre>
+    <modelo>Poco X4 256 gb</modelo>
+    <precio>$ 6,584.00</precio>
+</celular>
+<celular>
+    <nombre>Samsung</nombre>
+    <modelo>A71 128 gb</modelo>
+    <precio>$ 9,499.00</precio>
+</celular>
+<celular>
+    <nombre>Motorola</nombre>
+    <modelo>G20 play 128 gb</modelo>
+    <precio>$ 4,599.00</precio>
+</celular>
+<celular>
+    <nombre>Iphone</nombre>
+    <modelo>13 64 gb</modelo>
+    <precio>$ 8,999.00</precio>
+</celular>
+<celular>
+    <nombre>Xiaomi</nombre>
+    <modelo>Redmi note 10s 128 gb</modelo>
+    <precio>$ 3,999.00</precio>
+</celular>
+
+
+</celulares>
